@@ -1,5 +1,7 @@
 **Morning and Evening Azkar - Google Chrome Extension (Arabic Version)**
 
+**Link to Download the Release:** https://github.com/Hala-Ahmed-Fawzy/Azkar-Chrome-Extension/releases/tag/v1.0.0
+
 ![Screenshot 2024-10-06 111524](https://github.com/user-attachments/assets/96491590-325e-4936-81e2-a5c136072f82)
      ![Screenshot 2024-10-06 125228](https://github.com/user-attachments/assets/8b468dff-2150-4d68-8adb-e2b7f64864ea)
      ![Screenshot 2024-10-06 125204](https://github.com/user-attachments/assets/5103806d-8ae0-4f67-9a53-96078679245a)
